@@ -1,0 +1,10 @@
+params:
+  batch_size: 64
+  block_size: 256
+  max_iters: 4500
+  learning_rate: 3e-4
+  eval_iters: 250
+  n_embed: 384
+  n_head: 4
+  n_layer: 4
+  dropout: 0.2
