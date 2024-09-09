@@ -4,7 +4,7 @@ params:
   max_iters: 4500
   learning_rate: 3e-4
   eval_iters: 250
-  n_embed: 384
-  n_head: 4
-  n_layer: 4
+  n_embed: 512
+  n_head: 8
+  n_layer: 6
   dropout: 0.2
